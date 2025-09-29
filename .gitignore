@@ -1,0 +1,29 @@
+.env
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+*.env
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+*.code-workspace
+# Alembic migration cache
+alembic/versions/__pycache__/
+
+# pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
